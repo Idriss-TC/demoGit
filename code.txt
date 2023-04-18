@@ -1,5 +1,5 @@
 Ligne 1
 Ligne modifié 2
 Ligne 3
-Ligne 4 modifié
-5 Ligne
+Ligne 4 ajout
+Ligne 5
